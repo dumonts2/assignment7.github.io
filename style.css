@@ -1,0 +1,121 @@
+body{font-family: 'Roboto', sans-serif;
+    background-color: #E9EFC0;
+}
+h1{
+    background-color: #4E944F;
+    padding: 0.3em;
+    margin: 0.8em;
+    text-align: center;
+    color: #fff;
+    font-size: 300;
+    text-shadow: solid gray;
+    border-radius: 0.1em;
+}
+p{
+    text-align: center;
+    padding: 0.2em;
+}
+.container img{
+ width: 50%;
+ float: center;
+ padding-left: 6em;
+}
+.clearfix{
+    clear: both;
+}
+.button{
+    text-decoration: none;
+    background-color: #83BD75;
+    color: #fff;
+    text-shadow: solid gray;
+    font-weight: bold;
+    padding-top: 0.7em;
+    padding-bottom: 0.7em;
+    padding-left: 1.7em;
+    padding-right: 1.7em;
+    margin-left: 79px;
+    transition: 0.5s;
+    border-radius: 0.5em;
+    box-shadow: 6px 6px 12px #c5c5c5, -6px -6px 12px #ffffff;
+    font-size: 35px;
+}
+.button:active{
+    box-shadow: 4px 4px 12px #c5c5c5, inset -4px -4px 12px #ffffff;
+}
+
+.button2{
+    text-decoration: none;
+    background-color: #83BD75;
+    color: #fff;
+    text-shadow: solid gray;
+    font-weight: bold;
+    padding-top: 0.7em;
+    padding-bottom: 0.7em;
+    padding-left: 1.7em;
+    padding-right: 1.7em;
+    margin-left: 110px;
+    transition: 0.5s;
+    border-radius: 0.5em;
+    box-shadow: 6px 6px 12px #c5c5c5, -6px -6px 12px #ffffff;
+    font-size: 15px;
+}
+.button2:active{
+    box-shadow: 4px 4px 12px #c5c5c5, inset -4px -4px 12px #ffffff;
+}
+.button3{
+    text-decoration: none;
+    background-color: #83BD75;
+    color: #fff;
+    text-shadow: solid gray;
+    font-weight: bold;
+    padding-top: 0.7em;
+    padding-bottom: 0.7em;
+    padding-left: 1.7em;
+    padding-right: 1.7em;
+    margin-left: 92px;
+    transition: 0.5s;
+    border-radius: 0.5em;
+    box-shadow: 6px 6px 12px #c5c5c5, -6px -6px 12px #ffffff;
+    font-size: 15px;
+}
+.button3:active{
+    box-shadow: 4px 4px 12px #c5c5c5, inset -4px -4px 12px #ffffff;
+}
+.button4{
+    text-decoration: none;
+    background-color: #83BD75;
+    color: #fff;
+    text-shadow: solid gray;
+    font-weight: bold;
+    padding-top: 0.7em;
+    padding-bottom: 0.7em;
+    padding-left: 1.7em;
+    padding-right: 1.7em;
+    margin-left: 35px;
+    transition: 0.5s;
+    border-radius: 0.5em;
+    box-shadow: 6px 6px 12px #c5c5c5, -6px -6px 12px #ffffff;
+    font-size: 35px;
+}
+.button4:active{
+    box-shadow: 4px 4px 12px #c5c5c5, inset -4px -4px 12px #ffffff;
+}
+.button5{
+    text-decoration: none;
+    background-color: #83BD75;
+    color: #fff;
+    text-shadow: solid gray;
+    font-weight: bold;
+    padding-top: 0.7em;
+    padding-bottom: 0.7em;
+    padding-left: 1.7em;
+    padding-right: 1.7em;
+    margin-left: 50px;
+    transition: 0.5s;
+    border-radius: 0.5em;
+    box-shadow: 6px 6px 12px #c5c5c5, -6px -6px 12px #ffffff;
+    font-size: 35px;
+}
+.button5:active{
+    box-shadow: 4px 4px 12px #c5c5c5, inset -4px -4px 12px #ffffff;
+}
